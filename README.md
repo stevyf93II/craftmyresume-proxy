@@ -29,3 +29,7 @@ Node 18+ (uses the built-in `fetch`). Listens on `PORT`, default 3000.
 ## Why it is boring
 
 This is infrastructure for a free tool, so the design goal was the smallest surface that cannot be abused into a bill. Everything interesting lives in the frontend; this file exists so that nothing interesting has to live in the browser.
+
+## More from the same author
+
+[Vista](https://github.com/stevyf93II/vista): iOS LiDAR room scanner · [swift-tsdf](https://github.com/stevyf93II/swift-tsdf): TSDF fusion and marching cubes in Swift · [feedmerge](https://github.com/stevyf93II/feedmerge): vendor feed to versioned JSON catalog · [catalog-mcp](https://github.com/stevyf93II/catalog-mcp): MCP server for any JSON catalog · [docdrop](https://github.com/stevyf93II/docdrop): append-only Google Docs for AI memory · [fal-image-relay](https://github.com/stevyf93II/fal-image-relay): your own fal.ai image endpoint
